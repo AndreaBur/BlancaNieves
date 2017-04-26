@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BlancaNieves y los siete enanito salieron al bosque a jugar , cuando los sirvientes de la malvada reina se acercaron a su cabaña , se asustaron ya que los buscaban para matarlos, entonces crearon un plan de escape. fueron a la cueva donde los enanos trabajaban
+=======
+BlancaNieves y los siete enanito salieron al bosque a jugar , cuando los sirvientes de la malvada reina se acercaron a su cabaña , se asustaron ya que los buscaban para matarlos, entonces crearon un plan de escape, se fueron corriendo a un lugar de el bosque que nadie conocia.
+>>>>>>> e41f5ee125078d058d3d21c5749e161f490add50
